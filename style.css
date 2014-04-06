@@ -7,11 +7,13 @@ div {
 	width: 960px;
 	height: 1000px;
 }
-
+/*this is the code for the button holder*/
+/*i changed the float to the right, as i've noticed is the style in more popculturey sites*/
 .button-holder {
 	width: 180px;
 	float: right;
 }
+/*this specifies the style of the back and next buttons*/
 .button {
 
 	width: 60px;
@@ -23,12 +25,14 @@ div {
 	float: left;
 	text-align: center;
 }
+/*when the button is disabled, it is gray, and black when enabled*/
 
 .disabled{
 	cursor: default;
 	border-color: gray;
 	color: gray;
 }
+/*image holder is to the left*/
 
 .image-holder {
 	width: 625px;

@@ -10,7 +10,7 @@ div {
 
 .button-holder {
 	width: 180px;
-	float: left;
+	float: right;
 }
 .button {
 
@@ -32,8 +32,9 @@ div {
 
 .image-holder {
 	width: 625px;
-	height: 9255px;
+	height: 925px;
 	float: left;
+
 } body {
 
 }
